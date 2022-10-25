@@ -1,0 +1,35 @@
+header, footer {
+    background-image: url("./images/matrixcode.webp");
+    height: 150px;
+    width: 100%;
+}
+
+body {
+    background-color: black;
+    color: rgb(25, 161, 25);
+    text-align: center;
+}
+
+.btn-primary, .btn-lg, .btn-submit {
+    background-color: rgb(25, 161, 25);
+    border-color: rgb(3, 89, 3);
+}
+
+.box {
+    background-color: rgb(199, 241, 199);
+    padding: 3px;
+    margin: 5px;
+}
+
+.row {
+    height: 75%;
+}
+
+label {
+    font-weight: bold;
+    font-size: large;
+}
+
+#restart-btn {
+    margin: auto;
+}
